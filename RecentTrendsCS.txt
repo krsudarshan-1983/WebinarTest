@@ -1,0 +1,6 @@
+Welcome to recent trends in computer science
+
+list of topics:
+AI
+Robotics
+ML
